@@ -1,6 +1,6 @@
 ## Countdown Prompt Priming
 
-This repo contains code to reproduce experiments from the blogpost Priming language models with cognitive behaviors via prompting for better RLVR: https://prompt-priming.notion.site/
+This repo contains code to reproduce experiments from the blogpost: https://prompt-priming.notion.site/
 
 It supports:
 
