@@ -1,0 +1,16 @@
+[project]
+name = "prompt-priming-blog"
+version = "0.1.0"
+description = "Blogpost experiment reproduction code."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chz",
+    "reasoning-gym",
+    "sympy",
+    "tinker>=0.7.0",
+    "tinker-cookbook>=0.1.0",
+]
+
+[tool.uv.sources]
+tinker-cookbook = { git = "https://github.com/thinking-machines-lab/tinker-cookbook.git" }
