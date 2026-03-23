@@ -5,7 +5,7 @@ This repo contains code to reproduce experiments from the blogpost: https://prom
 It supports:
 
 - zero-shot training
-- one-shot training with the exact Countdown example from the post
+- one-shot training with the same example from the post
 - checkpoint evaluation under either zero-shot or one-shot prompting
 - exporting responses so you can inspect traces and compute sentence lengths
 
